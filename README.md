@@ -9,6 +9,10 @@ Node-RED Dashboard Example with Sign In (Log In) Form, Session Management
   { username : 'guest@yahoo.com', password : 'guest' , pri : 'low'}]
 ```    
 
+#### Sensor Flow 
+
+Sensor Flow is from https://diyprojects.io/node-red-dashboard-gauges-charts-notifications-html
+
 ## In Action 
 
 ![alt text-1](https://github.com/phyunsj/node-red-dashboard-login/blob/master/dasahboard_session_timeout.gif "Node-RED-Dashboard In Action")
