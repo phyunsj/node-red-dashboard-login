@@ -11,7 +11,7 @@ Node-RED Dashboard Example with Sign In (Log In) Form, Session Management
 
 #### Sensor Flow 
 
-Sensor Flow is from https://diyprojects.io/node-red-dashboard-gauges-charts-notifications-html
+The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node-red-dashboard-gauges-charts-notifications-html
 
 ## In Action 
 
