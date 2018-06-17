@@ -15,7 +15,8 @@ The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node
 
 #### `ui-control`
 
-- Transition from `Login` to `Measurement` & `Graph` Group.
+  
+- Transition from `Login` to `Measurement` & `Graph` Group.  ( 'TabName`_`GroupName` )
 
  > `{group:{hide:["Dashboard_Login"], show:["Dashboard_Graph", "Dashboard_Measurement"], focus:true}} `
 
