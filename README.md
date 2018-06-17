@@ -24,5 +24,6 @@ Node-RED Dashboard Example with Sign In (Log In) Form, Session Management
 
 ## To-Do-List
 
+- HTTPS Setup (https://www.hardill.me.uk/wordpress/2015/05/11/securing-node-red/) 
 - New User Registration
 - Database : account, log, etc
