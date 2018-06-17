@@ -17,11 +17,11 @@ The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node
 
 - Transition from `Login` to `Measurement` & `Graph` Group.
 
-`{group:{hide:["Dashboard_Login"], show:["Dashboard_Graph", "Dashboard_Measurement"], focus:true}} `
+ > `{group:{hide:["Dashboard_Login"], show:["Dashboard_Graph", "Dashboard_Measurement"], focus:true}} `
 
 - Transition from `Measurement` & `Graph` Group to `Login` Group.
 
-`{group:{hide:["Dashboard_Graph","Dashboard_Measurement"], show:["Dashboard_Login"], focus:true}}`
+ > `{group:{hide:["Dashboard_Graph","Dashboard_Measurement"], show:["Dashboard_Login"], focus:true}}`
 
 ## In Action 
 
