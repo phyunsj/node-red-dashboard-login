@@ -17,13 +17,13 @@ The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node
 
 
 <p align="center">
-<img src="https://github.com/phyunsj/node-red-dashboard-login/blob/master/dasahboard_session_timeout.gif" width="500px"/>
+<img src="https://github.com/phyunsj/node-red-dashboard-login/blob/master/dasahboard_session_timeout.gif" width="600px"/>
 </p>
 
 ## Flow
 
 <p align="center">
-<img src="https://github.com/phyunsj/node-red-dashboard-login/blob/master/node-red-dashboard.png" width="500px"/>
+<img src="https://github.com/phyunsj/node-red-dashboard-login/blob/master/node-red-dashboard.png" width="600px"/>
 </p>
 
 
