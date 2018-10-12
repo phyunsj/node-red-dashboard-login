@@ -25,7 +25,7 @@ The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node
  > `{group:{hide:["Dashboard_SensorData","Dashboard_history"], show:["Dashboard_Signin"], focus:true}}`
 
 <p align="center">
-<img src="https://github.com/phyunsj/node-red-dashboard-login/blob/master/node-red-dashboard-session-layout.png" width="600px"/>
+<img src="https://github.com/phyunsj/node-red-dashboard-login/blob/master/node-red-dashboard-session-layout.png" width="300px"/>
 </p>
 
 ## In Action 
