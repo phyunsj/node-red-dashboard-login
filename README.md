@@ -16,11 +16,11 @@ The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node
 #### `ui-control`
 
   
-- Transition from `Login` to `Measurement` & `Graph` Group.  ( `TabName`_`GroupName` )
+- Transition from `Signin` to `SensorData` & `History` Group.  ( `TabName`_`GroupName` )
 
  > `{group:{hide:["Dashboard_Signin"], show:["Dashboard_SensorData", "Dashboard_History"], focus:true}} `
 
-- Transition from `Measurement` & `Graph` Group to `Login` Group.
+- Transition from `SensorData` & `History` Group to `Signin` Group.
 
  > `{group:{hide:["Dashboard_SensorData","Dashboard_history"], show:["Dashboard_Signin"], focus:true}}`
 
