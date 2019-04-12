@@ -49,7 +49,7 @@ The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node
 
 Under `node-red-dashboard`,
 
-nodes/ui-toast.js
+#### `nodes/ui-toast.js`
 
 ```
         node.on('input', function(msg) {
@@ -57,7 +57,8 @@ nodes/ui-toast.js
             ...
         });
 ```
-nodes/ui-ui-control.js
+
+#### `nodes/ui-ui-control.js`
 
 ```
         this.on('input', function(msg) {
@@ -69,7 +70,9 @@ nodes/ui-ui-control.js
 
         });
 ```
-ui.js
+
+#### `ui.js`
+
 ```
 var singleUserOnly = false;  // SJ
 ...
