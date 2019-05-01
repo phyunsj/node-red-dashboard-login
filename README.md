@@ -97,6 +97,7 @@ function emitSocket(event, data) {
 
 #### Additional enhancements to be considered
 
+- Password Encryption
 - HTTPS Setup (https://www.hardill.me.uk/wordpress/2015/05/11/securing-node-red/) 
 - New User Registration
 - Database : account, log, etc
