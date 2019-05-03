@@ -5,7 +5,7 @@ Node-RED Dashboard Example with Sign In (Log In) Form, Session Management (15 se
 #### Accounts 
 
 ```
- [{ username : 'admin', password : 'admin' },
+ [{ username : 'admin', password : 'admin' },  // password should be encrypted
   { username : 'guest', password : 'guest' }]
 ```    
 
