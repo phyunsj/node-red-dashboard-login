@@ -47,7 +47,7 @@ The Sensor Flow (and modified for this demo) is from https://diyprojects.io/node
 
 :pencil: Unfortunately, some changes are required to make it work. 
 
-Under `node-red-dashboard`,
+Under `node-red-dashboard`(v2.9.8),
 
 #### `nodes/ui-toast.js`
 
